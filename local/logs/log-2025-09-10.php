@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2025-09-10 07:41:52 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 07:41:52 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 07:41:52 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 07:41:52 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 09:53:33 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 09:53:33 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 09:53:33 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 09:53:33 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 09:53:34 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 09:53:34 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 09:53:34 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 09:53:34 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 09:53:36 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 09:53:36 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 09:53:36 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 09:53:36 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 11:49:53 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 11:49:53 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 11:49:53 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 11:49:53 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 11:50:12 --> Severity: Warning --> Undefined array key "scheda" /var/www/html/crbs-core/application/views/dashboard/index.php 18
+ERROR - 2025-09-10 11:51:56 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 11:51:56 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 11:51:56 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 11:51:56 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 14:57:26 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 14:57:26 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 14:57:26 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 14:57:26 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
+ERROR - 2025-09-10 15:52:44 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 56
+ERROR - 2025-09-10 15:52:44 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 68
+ERROR - 2025-09-10 15:52:44 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 80
+ERROR - 2025-09-10 15:52:44 --> Severity: Warning --> Undefined array key "UTENTE" /var/www/html/crbs-core/application/views/login/login_index.php 92
